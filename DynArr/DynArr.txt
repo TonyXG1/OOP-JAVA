@@ -1,0 +1,8 @@
+ * Konstruktor
+ * Dobavqne na element(add)
+ * Premahvane na posledniq element(remLast)
+ * getters & setters:
+ * getCount()
+ * get(nomer na elementa)
+ * set(nomer na elementa, nova stoinost)
+ * toString {el0, el1, ..., elPosleden}
